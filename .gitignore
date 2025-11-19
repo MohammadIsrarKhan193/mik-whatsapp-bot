@@ -1,0 +1,4 @@
+# .gitignore
+# Dependency directory node_modules/
+# Environment file containing secrets .env
+# MacOS temporary files .DS_Store
